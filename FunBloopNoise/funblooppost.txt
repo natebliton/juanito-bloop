@@ -1,0 +1,5 @@
+https://m.facebook.com/groups/synthdiy/permalink/10157736645166313/
+
+Here's a shockingly fun module. I built it originally for Casiotone-style "beep" percussion noises, but with FM and a snappy way to make the beeps longer, the noises it can make are really expressive. I seem to pull this module into my jamming much more often than it seems to deserve with how simple it is.
+You could simplify it by removing the output buffer and taking the signal straight from the potentiometer. It wouldn't need a bipolar supply in that case!
+Old-school 555 chips don't need the 10n capacitor on pin 5, but fancy modern CMOS 555 chips might.
