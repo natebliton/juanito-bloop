@@ -8,10 +8,6 @@ Old-school 555 chips don't need the 10n capacitor on pin 5, but fancy modern CMO
 Colin Hinz
 Nice! Two of my favourite ICs for noise toys.
 Probably a good idea to tie the unused inputs on the CD4046 to gnd, though.
-2
-
-     · Reply
-     · 9h
 
 Juanito Moore
 Author
